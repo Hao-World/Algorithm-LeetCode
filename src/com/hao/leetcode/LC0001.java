@@ -4,9 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 
- * 
- * 【TOP-1】
  * 【两数之和】
  * 
  * 给定一个整数数组 nums 和一个目标值 target，

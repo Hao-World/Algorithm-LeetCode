@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * **[无重复字符的最长子串]**
+ * 【无重复字符的最长子串】
  * 
  * 
  * @author hao
